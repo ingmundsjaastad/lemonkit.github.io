@@ -1,0 +1,8 @@
+git clone [http-addr]		Clone repositories on Github
+git status			File status
+git add [filemane]		Add files to current current repositorie Github
+git add .			Adding all files
+git commit -m "[comment]"	Commit files with comment
+git push			Add changes to Github repositorie
+git pull			Get the latest from Github
+
